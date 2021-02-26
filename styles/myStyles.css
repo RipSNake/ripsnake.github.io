@@ -16,7 +16,12 @@ header {
 .cv-wrapper {
 	border-radius: 10px;
 	border: 1px solid black;
-	padding: 0.5em;
+	padding: 0.7em;
+	overflow: hidden;
+}
+
+.cv-wrapper a img {
+	border-radius: 10px;
 }
 
 main {
@@ -32,6 +37,10 @@ main {
 	text-align: center;
 	padding-bottom: .5em;
 	border-bottom: .5px solid black;
+}
+
+.grid-item .card-body {
+	text-align: center;
 }
 
 footer {

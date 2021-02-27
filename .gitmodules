@@ -1,3 +1,12 @@
 [submodule "zilean-counter"]
 	path = zilean-counter
 	url = https://github.com/RipSNake/zilean-counter
+[submodule "css-effects"]
+	path = css-effects
+	url = https://github.com/RipSNake/css-effects
+[submodule "simple-memotest-pjmasks"]
+	path = simple-memotest-pjmasks
+	url = https://github.com/RipSNake/simple-memotest-pjmasks
+[submodule "notes-collector"]
+	path = notes-collector
+	url = https://github.com/RipSNake/notes-collector

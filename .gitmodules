@@ -10,3 +10,6 @@
 [submodule "notes-collector"]
 	path = notes-collector
 	url = https://github.com/RipSNake/notes-collector
+[submodule "simple-watch"]
+	path = simple-watch
+	url = https://github.com/RipSNake/simple-watch
